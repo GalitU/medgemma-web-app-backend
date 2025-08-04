@@ -211,3 +211,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+ALL_CMT_CERT.pem
